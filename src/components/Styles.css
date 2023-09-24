@@ -1,0 +1,15 @@
+
+.slick-prev:before,
+.slick-next:before
+{
+    color: transparent;
+}
+
+.slick-dots li button:before
+{
+    color: transparent;
+}
+.slick-dots li.slick-active button:before
+{
+    color: transparent;
+}
